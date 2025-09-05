@@ -1,0 +1,7 @@
+{
+  "name": "Vision AI: Image Recognition",
+  "description": "An intelligent web application that uses the Gemini API to analyze and understand the content of uploaded images based on user prompts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
